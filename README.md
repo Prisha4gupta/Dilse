@@ -34,7 +34,7 @@ It’s a **supportive companion** - built *from the heart* (*Dil Se*) - that hel
 - **Confidential Journaling** with **AI-generated summaries** for deeper self-understanding.  
 
   
-<img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/23b22836-6f0d-4c7e-bac1-1a59d967183a" />
+<img width="1898" height="909" alt="image" src="assets\dashboard.png" />
 
 
 ---
@@ -58,7 +58,7 @@ Simple, guided practices designed for busy students and young adults:
 - **Support Circle** for community-based well-being  
 
 
-<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/30514f3f-f5ee-4dde-a862-0a049d02de43" />
+<img width="1900" height="907" alt="image" src="assets/wellness.png" />
 
 ---
 
