@@ -1,4 +1,4 @@
-# 🩷 DilSe AI – Your Confidential Mental Wellness Companion  
+# 🩷 DilSe AI - Your Confidential Mental Wellness Companion  
 
 > *“From the heart, For your mind”*  
 
@@ -10,19 +10,19 @@
 
 Mental health is one of the most pressing issues of our time, especially among **youth and students**.  
 Yet, many still hesitate to seek help due to:  
-- **Stigma** – Fear of being judged for opening up.  
-- **Accessibility** – Professional therapy is costly and out of reach.  
-- **Confidentiality concerns** – Worries about privacy stop people from sharing their true feelings.  
-- **Pressure** – Academic, social, and personal expectations that feel overwhelming.  
+- **Stigma** - Fear of being judged for opening up.  
+- **Accessibility** - Professional therapy is costly and out of reach.  
+- **Confidentiality concerns** - Worries about privacy stop people from sharing their true feelings.  
+- **Pressure** - Academic, social, and personal expectations that feel overwhelming.  
 
 ---
 
-## 💡 Solution – DilSe AI  
+## 💡 Solution - DilSe AI  
 
 **DilSe AI** is a **confidential, empathetic, and AI-powered mental wellness companion** that provides a safe space for youth to reflect, grow, and take charge of their mental well-being.  
 
 It’s not therapy. It’s not judgment.  
-It’s a **supportive companion** — built *from the heart* (*Dil Se*) — that helps you track emotions, practice mindfulness, and develop healthy habits through everyday reflections and personalized AI insights.  
+It’s a **supportive companion** - built *from the heart* (*Dil Se*) - that helps you track emotions, practice mindfulness, and develop healthy habits through everyday reflections and personalized AI insights.  
 
 ---
 
@@ -40,20 +40,20 @@ It’s a **supportive companion** — built *from the heart* (*Dil Se*) — that
 ---
 
 ### 📊 Smart Mental Health Tracking  
-- **Burnout Radar** – Detect early signs of stress & prevent exhaustion.  
-- **Sleep Quality Monitoring** – Encourage healthier rest cycles.  
-- **Mindfulness Streaks** – Celebrate progress and consistency.  
-- **Support Network Activity** – Confidential peer check-ins.  
+- **Burnout Radar** - Detect early signs of stress & prevent exhaustion.  
+- **Sleep Quality Monitoring** - Encourage healthier rest cycles.  
+- **Mindfulness Streaks** - Celebrate progress and consistency.  
+- **Support Network Activity** - Confidential peer check-ins.  
 
 ---
 
 ### 🧘 Wellness & Self-Awareness Tools  
 Simple, guided practices designed for busy students and young adults:  
-- **Breathing Exercises** (3–5 min)  
-- **Meditation** (5–10 min)  
-- **Mood Check-in** (2–3 min)  
-- **Gratitude Log** (3–5 min)  
-- **Guided Journaling** (5–10 min)  
+- **Breathing Exercises** (3-5 min)  
+- **Meditation** (5-10 min)  
+- **Mood Check-in** (2-3 min)  
+- **Gratitude Log** (3-5 min)  
+- **Guided Journaling** (5-10 min)  
 - **5-4-3-2-1 Grounding** for anxiety relief  
 - **Support Circle** for community-based well-being  
 
@@ -63,9 +63,9 @@ Simple, guided practices designed for busy students and young adults:
 ---
 
 ### 📚 Reflections & Growth Tracking  
-- **Recent Reflections** – Capture your thoughts & emotions every day.  
-- **AI-Assisted Insights** – Detect emotional patterns and growth areas.  
-- **Your Practice Journey** – Track progress (sessions, streaks, minutes).  
+- **Recent Reflections** - Capture your thoughts & emotions every day.  
+- **AI-Assisted Insights** - Detect emotional patterns and growth areas.  
+- **Your Practice Journey** - Track progress (sessions, streaks, minutes).  
 
 ---
 
