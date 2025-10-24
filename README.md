@@ -17,7 +17,7 @@ Yet, many still hesitate to seek help due to:
 
 ---
 
-## 💡 Our Solution – DilSe AI  
+## 💡 Solution – DilSe AI  
 
 **DilSe AI** is a **confidential, empathetic, and AI-powered mental wellness companion** that provides a safe space for youth to reflect, grow, and take charge of their mental well-being.  
 
